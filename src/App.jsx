@@ -1,4 +1,3 @@
-import {useState} from "react";
 import "./app.scss"
 import HomePage from "./components/home/HomePage";
 import Questions from "./components/home/questions/Questions";
@@ -14,7 +13,6 @@ import {
 } from "react-router-dom";
 
 function App() {
-  const [activeQuestion, setActiveQuestion] = useState(0);
 
   return (
     <Router>

@@ -44,7 +44,7 @@ export default function Questions() {
   }
 
   return (
-    <div className="container">
+    <div className="container-questions">
           {questions.map((q, i) => (
         <div key={i} className="resposta" >
               <span>Situação hipotética:</span>

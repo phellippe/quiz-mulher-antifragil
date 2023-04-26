@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "question": "Há uma demanda no seu trabalho que não é sua função, mas caso não seja realizada haverá prejuízo para a empresa. Você resolve o problema, porém outra funcionária que recebe os aplausos no seu lugar e não faz nenhum movimento que demonstre gratidão à você.",
+            "options": [
+                {"answer":"Fica indignada, se sente injustiçada, não conta para ninguém, mas se ressente profundamente"},
+                {"answer":"Fica indignada, se sente injustiçada e vai tirar satisfação com a colega e expõe tudo ao seu superior. E só se sente satisfeita quando essa colega reconhece que errou"},
+                {"answer":"Não se afeta. Afinal, você está ali para ser útil, fazer o seu trabalho e não tem necessidade nenhuma de ser reconhecida, pois a sua satisfação é cumprir seu dever"}
+            ]
+        },
+        {
+            "question": "Seu marido (se for casada) ou pais (se for solteira) está numa longa e estressante jornada de trabalho, você se prepara para recebê-lo na sexta com um belo jantar em casal, cheia de expetativa para aproveitarem a dois. Ele chega mega cansado, não repara na preparação, toma um banho, faz o prato, senta no sofá, liga a TV e ficam em silêncio...",
+            "options": [
+                {"answer":"Fica tentando chamar atenção, reclama da desatenção, desmancha a mesa e sem dar boa noite, se tranca no quarto super chateado"},
+                {"answer":"Já chama a atenção dele brigando, mostrando o quanto foi ridículo não ter dado atenção pra tudo que você fez e Briga até que ele se sente à mesa e te dê atenção"},
+                {"answer":"Entende que o dia deles não deve ter sido muito bom, desfaz a mesa, senta ao lado deles e os servem com a certeza de que amanhã será um dia melhor e que poderão se curtir mais"}
+            ]
+        },
+        {
+            "question": "Você dá um comando a um liderado e ele te questiona, mesmo que tu tenhas explicado pacientemente ele age conforme suas próprias vontades.",
+            "options": [
+                {"answer":"Fica muito alterada, impõe que ele como subordinado cumpra as suas ordens sem questionar"},
+                {"answer":"Exclui o liderado do projeto sem dar nenhuma explicação. Você que manda!"},
+                {"answer":"Convidaria o liderado para uma conversa para entender como pode ser mais clara e ter sua demanda atendida conforme a direção"}
+            ]
+        },
+        {
+            "question": "Você leva seu filho a uma festa de amigos e chegando lá ele te desrespeita e desobedece.",
+            "options": [
+                {"answer":"Perde o controle e grita com seu filho impondo sua autoridade"},
+                {"answer":"Iria embora da festa constrangida e preocupada com o que as pessoas estão pensando de você"},
+                {"answer":"Acalmaria seu filho, pois é normal que tenha atitudes inesperadas. Afinal, ele é apenas uma criança"}
+            ]
+        }
+    ]
+}
